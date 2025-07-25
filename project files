@@ -1,0 +1,3 @@
+git commit-m"Initial commit of project files"
+git remote add origin <Github_respiratory-URL>
+Git push -u origin main
